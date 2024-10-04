@@ -1,4 +1,4 @@
-![University Building](https://example.com/path/to/university-building.jpg) <!-- Replace with the actual URL -->
+![University Building](https://github.com/mwazr/mwazr/blob/main/imagereadmeBbuilding.jpg?raw=true) <!-- Replace with the actual URL -->
 
 # Mustafa W. Alam
 
